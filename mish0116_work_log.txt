@@ -1,4 +1,0 @@
-mish0116 | 26-09-2025 | 10:00-10:30 | 23. None (did not do anything work related)
-mish0116 | 26-09-2025 | 11:00-11:30 | 8. Preparing workplace/solution configuration/environment to start implementation/bugfixing;9. Implementing/Bugfixing – Coding/scripting work (in Java/React/GoLang/etc.) including debugging, dev tests
-mish0116 | 26-09-2025 | 12:30-13:00 | 11. Waiting for deployment/build/infra/CI to complete that I can continue
-mish0116 | 26-09-2025 | 15:00-15:30 | 14. Waiting for design to be ready / task assigned / etc.
