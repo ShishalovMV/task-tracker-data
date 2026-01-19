@@ -1,4 +1,4 @@
-300
+309
 mish0116|2025-10-01|12:00-12:30|8. Preparing workplace/solution configuration/environment to start implementation/bugfixing|Unassigned
 mish0116|2025-10-02|12:00-12:30|18. Group Meeting/Call – Passive participation (wait for my call to speak / just for information attendance)|Unassigned
 mish0116|2025-10-02|13:00-13:30|6. Study & Research (how does our NC project solution/code work)|Unassigned
@@ -69,3 +69,10 @@ mish0116|2026-01-16|10:30-11:00|2026-01-16 10:45:42|Mentoring & Consulting
 mish0116|2026-01-16|11:00-11:30|2026-01-16 11:15:40|Waiting for some ones answer other than requirements/design/defect clarification
 mish0116|2026-01-16|11:30-12:00|2026-01-16 11:48:01|Group Meeting/Call - Passive participation + Multitasking (i.e. doing in parallel some coding, other work)
 mish0116|2026-01-16|12:00-12:30|2026-01-16 12:15:41|Other (coffee break, informal discussions, anything else not in the list above)
+mish0116|2026-01-18|01:00-01:30|2026-01-19 15:44:56|Mentoring & Consulting
+mish0116|2026-01-18|05:30-06:00|2026-01-19 15:45:02|Implementing/Bugfixing - Configuration of NC solution/product including debugging, dev tests
+mish0116|2026-01-18|06:00-06:30|2026-01-19 15:45:04|Implementing/Bugfixing - Configuration of NC solution/product including debugging, dev tests
+mish0116|2026-01-18|06:30-07:00|2026-01-19 15:45:07|Code review
+mish0116|2026-01-18|07:00-07:30|2026-01-19 15:45:09|Code review
+mish0116|2026-01-18|07:30-08:00|2026-01-19 15:45:10|Merging
+mish0116|2026-01-19|13:00-13:30|2026-01-19 15:44:20|Waiting for deployment/build/infra/CI to complete that I can continue
